@@ -1,0 +1,11 @@
+"dougtest"
+{
+	"base"		"base"
+	"title"		"Doug's test"
+	"maps"		"^bg_"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
